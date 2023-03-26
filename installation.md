@@ -32,7 +32,8 @@ max_execution_time = 300
 
 If you are using Cpanel, you can follow this article to change your PHP memory limit settings https://chemicloud.com/kb/article/how-to-increase-the-php-memory-limit-in-cpanel/
 
-> {warning} On this project, we're using the latest Laravel version (currently 8.x). Please go to [Laravel documentation page](https://laravel.com/docs) for more information.
+> {warning} On this project, we're using the latest Laravel version (currently 9.x). Please go to [Laravel documentation 
+page](https://laravel.com/docs) for more information.
 
 <a name="installation"></a>
 ## Install on hosting

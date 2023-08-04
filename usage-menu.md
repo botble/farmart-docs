@@ -1,6 +1,7 @@
 # Menu
 
 ## Main menu
+
 ![Image](https://live.staticflickr.com/65535/52030848279_4cb9627483_b.jpg)
 
 - Go to Admin -> Appearance -> Menus (select Main menu)

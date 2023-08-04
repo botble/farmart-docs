@@ -1,18 +1,20 @@
 # Homepage
 
 ## Setup homepage
+
 - Go to Admin -> Appearance -> Theme options (tab Page) to select a homepage.
 
 ![Image](https://live.staticflickr.com/65535/52030860819_de08466f54_b.jpg)
 
 ## Customize homepage
+
 - Go to Admin -> Pages -> Select Homepage
 
 ![Image](https://live.staticflickr.com/65535/52029565757_a09d878847_b.jpg)
 
 - Home slider.
-![Image](https://live.staticflickr.com/65535/52031127435_2719973ec3_b.jpg)
-  
+  ![Image](https://live.staticflickr.com/65535/52031127435_2719973ec3_b.jpg)
+
 It's shortcode `simple-slider` in the page content.
 
 ![Image](https://live.staticflickr.com/65535/52030610941_d035d13b9d_b.jpg)

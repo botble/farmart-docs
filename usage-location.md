@@ -2,20 +2,26 @@
 
 It is used to change city & state field in the checkout page to dropdown list.
 
-Result:
+![](./images/location-1.png)
 
-![Image](https://ticksy_attachments.s3.amazonaws.com/2898880512.png)
+## Active plugin
 
-## Activate plugin Location
+Go to `Admin`, find the **Location** plugin, and click **Active**.
 
-Go to Admin -> Plugins to activate plugin Location.
+![](./images/location-2.png)
 
 ## Add countries, states, cities
 
-You can add manually from Admin -> Location or import from CSV in Admin -> Tools -> Import locations.
+You can add manually from `Admin` -> `Locations`.
+
+![](./images/location-3.png)
+
+Or you can import from CSV in `Admin` -> `Tools` -> `Import locations`
+
+![](./images/location-4.png)
 
 ## Enable to use
 
-Go to Admin -> Ecommerce -> Settings and enable "Load countries, states, cities from plugin location?"
+Go to `Admin` -> `Ecommerce` -> `Advanced Settings` and enable **Load countries, states, cities from plugin location?**
 
-![Image](https://ticksy_attachments.s3.amazonaws.com/1145487870.png)
+![](./images/location-5.png)

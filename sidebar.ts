@@ -24,7 +24,6 @@ export default [
       { text: 'Menu', link: '/farmart/usage-menu' },
       { text: 'Theme options', link: '/farmart/usage-theme-options' },
       { text: 'Widgets', link: '/farmart/usage-widgets' },
-      { text: 'Rename theme', link: '/farmart/theme-rename' },
       { text: 'Custom CSS/JS', link: '/farmart/usage-custom-css-js' },
       { text: 'Translation', link: '/farmart/usage-translation' },
       { text: 'Multi-language', link: '/farmart/usage-multi-language' },
@@ -40,4 +39,10 @@ export default [
       { text: 'Invoice template', link: '/farmart/invoice-template' },
     ],
   },
+  {
+    text: 'Development',
+    items: [
+      { text: 'Rename theme', link: '/farmart/theme-rename' },
+    ]
+  }
 ] satisfies DefaultTheme.SidebarItem[];

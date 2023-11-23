@@ -28,13 +28,11 @@ export default [
       { text: 'Custom CSS/JS', link: '/farmart/usage-custom-css-js' },
       { text: 'Translation', link: '/farmart/usage-translation' },
       { text: 'Multi-language', link: '/farmart/usage-multi-language' },
-      { text: 'Location', link: '/farmart/usage-location' },
       { text: 'Google Analytics', link: '/farmart/usage-analytics' },
       { text: 'Media - Setup Amazon S3', link: '/farmart/usage-media-s3' },
       { text: 'Media - Setup BunnyCDN', link: '/farmart/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/farmart/usage-media-wasabi' },
       { text: 'Setup email', link: '/farmart/usage-email' },
-      { text: 'Backup', link: '/farmart/plugin-backup' },
 
       { text: 'Currencies', link: '/farmart/usage-currencies' },
       { text: 'Setup social login', link: '/farmart/usage-social-login' },

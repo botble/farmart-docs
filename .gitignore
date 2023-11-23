@@ -1,6 +1,7 @@
 .idea
 .DS_Store
 license.md
+installation.md
 ssl.md
 theme-rename.md
 upgrade.md

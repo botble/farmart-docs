@@ -32,11 +32,11 @@ export default [
       { text: 'Media - Setup BunnyCDN', link: '/farmart/usage-media-bunnycdn' },
       { text: 'Media - Setup Wasabi', link: '/farmart/usage-media-wasabi' },
       { text: 'Setup email', link: '/farmart/usage-email' },
-
       { text: 'Currencies', link: '/farmart/usage-currencies' },
       { text: 'Setup social login', link: '/farmart/usage-social-login' },
       { text: 'Location', link: '/farmart/usage-location' },
       { text: 'Invoice template', link: '/farmart/invoice-template' },
+      { text: 'Setup cronjob', link: '/farmart/cronjob' },
     ],
   },
   {

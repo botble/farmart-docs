@@ -37,6 +37,7 @@ export default [
       { text: 'Location', link: '/farmart/usage-location' },
       { text: 'Invoice template', link: '/farmart/invoice-template' },
       { text: 'Setup cronjob', link: '/farmart/cronjob' },
+      { text: 'Newsletter', link: '/farmart/usage-newsletter' },
     ],
   },
   {

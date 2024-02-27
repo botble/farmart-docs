@@ -1,9 +1,18 @@
-## Custom invoice template
+# Invoice Template
 
-- Option 1: Customize directly file `platform/plugins/ecommerce/resources/views/invoices/template.blade.php`.
+## Customize the template
 
-- Option 2: Copy file `platform/plugins/ecommerce/resources/views/invoices/template.blade.php`
-  to `storage/app/invoices/template.blade.php` to start customize.
+There are two options to customize the invoice template:
+
+### Customize in admin panel (recommended)
+
+Go to `Settings` -> `Ecommerce` -> `Invoice Template` to customize the invoice template.
+
+![Invoice Template](../farmart/images/invoice-template.png)
+
+### Customize directly file
+
+Copy file `platform/plugins/ecommerce/resources/views/invoices/template.blade.php` to `storage/app/invoices/template.blade.php` to start customize.
 
 ## Bangladesh font
 

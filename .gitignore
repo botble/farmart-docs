@@ -1,6 +1,7 @@
 .DS_Store
 .idea
 api.md
+api.md
 cronjob.md
 installation.md
 license.md
@@ -19,4 +20,3 @@ usage-multi-language.md
 usage-newsletter.md
 usage-social-login.md
 usage-translation.md
-api.md

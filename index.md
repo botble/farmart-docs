@@ -43,7 +43,7 @@ Password: `159357`
 - Single checkout page
 - Support many payment methods: PayPal, Stripe, Paystack, Razorpay, Mollie and SSLCommerz.
 - Guest checkout supported.
-- Multivendor & Marketplace: easy to enable / disable multivendor features.
+- Multi vendor & Marketplace: easy to enable / disable multi vendor features.
 - Multi-language, unlimited languages support.
 - Multi-currency, unlimited currencies support.
 - Full RTL support.
@@ -61,4 +61,4 @@ Password: `159357`
 
 ## Botble Team
 
-Visit us at [https://botble.com](botble.com).
+Visit us at [botble.com](https://botble.com).
